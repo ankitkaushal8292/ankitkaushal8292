@@ -78,21 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkaushal8292&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitkaushal8292&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkaushal8292&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🚀 Tech Stack
 
