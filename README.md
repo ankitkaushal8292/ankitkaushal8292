@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Kaushal</h1>
 
-<h3 align="center">Full Stack Web Developer | Java Developer | Computer Science Student from India 🇮🇳</h3>
+<h3 align="center">Full Stack Web Developer | Computer Science Student from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -11,7 +11,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 🌱 Currently learning **React.js, Node.js, Express.js & MongoDB**
 - 💻 Interested in **Full Stack Development**
 - 🚀 Solving DSA problems and building real-world projects
 - 📫 Reach me at: **ankitkaushal8292@gmail.com**
